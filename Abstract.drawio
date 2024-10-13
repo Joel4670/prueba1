@@ -371,7 +371,7 @@
           <mxGeometry x="140" y="255" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-144" value="Interfaz Abstracta Reserva ( Mas de una Persona )" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1720" width="480" height="440" as="geometry" />
+          <mxGeometry x="40" y="1720" width="480" height="600" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-145" value="Hostal No Fear Adventure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
           <mxGeometry x="40" y="31" width="110" height="30" as="geometry" />
@@ -407,7 +407,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-154" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="10" y="110" width="460" height="270" as="geometry" />
+          <mxGeometry x="10" y="110" width="460" height="440" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-155" value="Datos del Huesped Principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
           <mxGeometry x="20" y="120" width="180" height="19" as="geometry" />
@@ -455,31 +455,37 @@
           <mxGeometry x="180" y="270" width="120" height="19" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-170" value="&amp;lt; Volver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="40" y="350" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="510" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-171" value="Añadir Personas +1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="30" y="320" width="150" height="20" as="geometry" />
+          <mxGeometry x="30" y="340" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-172" value="Continuar &amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="284" y="350" width="150" height="20" as="geometry" />
+          <mxGeometry x="294" y="510" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-173" value="Explora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="130" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-174" value="Visitanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="250" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-175" value="Contactanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="390" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-176" value="Acerca de Nosotros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
-          <mxGeometry x="10" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-177" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wUGm2H217QOp2pI1q1NX-144">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="400" as="sourcePoint" />
-            <mxPoint x="480" y="400" as="targetPoint" />
+            <mxPoint y="560" as="sourcePoint" />
+            <mxPoint x="480" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-179" value="check in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
+          <mxGeometry x="30" y="300" width="120" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-180" value="Check out" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-144">
+          <mxGeometry x="180" y="300" width="120" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
