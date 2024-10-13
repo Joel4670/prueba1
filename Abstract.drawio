@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-61" value="Interfaz Abstracta Reserva" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1220" width="480" height="390" as="geometry" />
+          <mxGeometry x="40" y="1220" width="480" height="440" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-66" value="Hostal No Fear Adventure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
           <mxGeometry x="40" y="31" width="110" height="30" as="geometry" />
@@ -271,6 +271,24 @@
         <mxCell id="wUGm2H217QOp2pI1q1NX-143" value="Continuar &amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
           <mxGeometry x="284" y="350" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-63" value="Explora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
+          <mxGeometry x="130" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-64" value="Visitanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
+          <mxGeometry x="250" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-65" value="Contactanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
+          <mxGeometry x="390" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-62" value="Acerca de Nosotros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-61">
+          <mxGeometry x="10" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wUGm2H217QOp2pI1q1NX-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="400" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-90" value="Interfaz Amigable Registro User" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="480" height="330" as="geometry" />
         </mxCell>
@@ -351,24 +369,6 @@
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-114" value="Enviar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-90">
           <mxGeometry x="140" y="255" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-63" value="Explora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1700" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-64" value="Visitanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1700" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-65" value="Contactanos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1700" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1700" as="sourcePoint" />
-            <mxPoint x="520" y="1700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-62" value="Acerca de Nosotros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
