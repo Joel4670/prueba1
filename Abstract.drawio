@@ -1213,7 +1213,7 @@
         <mxCell id="wUGm2H217QOp2pI1q1NX-629" value="Habitaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="wUGm2H217QOp2pI1q1NX-617" vertex="1">
           <mxGeometry x="90" y="70" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUGm2H217QOp2pI1q1NX-630" value="Promociones" style="rounded=1;whiteSpace=wrap;html=1;" parent="wUGm2H217QOp2pI1q1NX-617" vertex="1">
+        <mxCell id="wUGm2H217QOp2pI1q1NX-630" value="Promociones" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#aaaaaa;gradientDirection=north;" parent="wUGm2H217QOp2pI1q1NX-617" vertex="1">
           <mxGeometry x="183.5" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-619" value="Explora" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wUGm2H217QOp2pI1q1NX-617" vertex="1">
