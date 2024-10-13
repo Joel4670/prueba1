@@ -40,10 +40,25 @@
             <mxPoint x="470" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-14" value="Reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-1">
+          <mxGeometry x="10" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-15" value="Habitaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-1">
+          <mxGeometry x="90" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-16" value="Promociones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="wUGm2H217QOp2pI1q1NX-1">
+          <mxGeometry x="183.5" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="wUGm2H217QOp2pI1q1NX-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="340" as="sourcePoint" />
             <mxPoint x="620" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wUGm2H217QOp2pI1q1NX-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="230" as="sourcePoint" />
+            <mxPoint x="620" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
