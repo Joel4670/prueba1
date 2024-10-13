@@ -2459,7 +2459,7 @@
           <mxGeometry x="178" y="205" width="31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i0jgs4zBbZNEEdzr55Ck-568" value="Teléfono" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i0jgs4zBbZNEEdzr55Ck-540">
-          <mxGeometry x="257.5" y="205" width="31" height="20" as="geometry" />
+          <mxGeometry x="286" y="205" width="31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i0jgs4zBbZNEEdzr55Ck-569" value="N Personas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="i0jgs4zBbZNEEdzr55Ck-540">
           <mxGeometry x="359.5" y="200" width="90.5" height="20" as="geometry" />
